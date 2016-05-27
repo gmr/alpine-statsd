@@ -7,7 +7,7 @@ Example Usage
 
 Create a statsd configuration, for example ``/path/to/statsd/cfg_dir/config.js``:
 
-.. code:: json
+.. code:: javascript
 
     {
       graphitePort: 2003,
